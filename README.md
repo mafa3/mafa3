@@ -1,6 +1,6 @@
-# studentaluramf
+# studentaluramafa
 
-Welcome!!!💙💙💙
+Welcome!!!
 
 + My name is maria.💙
 + Estou me desenvolvendo na linguagem JavaScript
